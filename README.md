@@ -1,4 +1,4 @@
-Hi! I'm Pouya, a *medical student* at UW School of Medicine and Public Health in Madison, WI, USA.
+Hi! I'm **Pouya**, a *medical student* at UW School of Medicine and Public Health in Madison, WI, USA.
 
 My research interests lie in biomedical imaging, image processing, artificial intelligence, and bioinstrumentation (it's a bit of a wide array). 
 
