@@ -12,7 +12,7 @@ _I want to develop web extensions and tools._
 
 📆 **Technology that I plan to learn:** <br /> 
 SQL, Java, C/C++, Julia, Jekyll, vim <br /> 
-_Yes. I plan to become a degenerate._ <br /> 
+_Vim is purely because I intend to be a degenerate._ <br /> 
 <br /> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyamrzi&layout=compact" alt="Top Langs">
